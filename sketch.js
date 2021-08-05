@@ -35,6 +35,8 @@ function setup(){
 
     bird = new Bird(100,100);
 
+    console.log("Comment in setup");
+
 }
 
 function draw(){
